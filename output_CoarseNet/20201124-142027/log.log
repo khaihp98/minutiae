@@ -1,0 +1,13 @@
+20201124-14:20:27 Predicting "img_files":
+20201124-14:20:39 "img_files" 1 / 6: 10
+20201124-14:21:27 Predict time: 48s
+20201124-14:21:27 "img_files" 2 / 6: 7
+20201124-14:22:03 Predict time: 36s
+20201124-14:22:03 "img_files" 3 / 6: 8
+20201124-14:23:11 Predict time: 68s
+20201124-14:23:11 "img_files" 4 / 6: phai_giua
+20201124-14:23:38 Predict time: 26s
+20201124-14:23:38 "img_files" 5 / 6: resize
+20201124-14:24:26 Predict time: 48s
+20201124-14:24:26 "img_files" 6 / 6: resize3
+20201124-14:25:11 Predict time: 45s
